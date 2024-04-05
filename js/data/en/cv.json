@@ -1,0 +1,29 @@
+{
+    "my-cv-title":{
+        "0":"CONTACT",
+        "1":"Name:",
+        "2":"Phone:",
+        "3":"Address:",
+        "4":"Email:",
+        "5":"SKILL",
+        "6":"WORK EXPERIENCE",
+        "7":"EDUCATION"
+    },
+    "my-cv-content": {
+        "0":"- Lam Phu Qui",
+        "1":"- (+84)0343861387",
+        "2":"- Can Tho",
+        "3":"- viplanhts@gmail.com",
+        "4":"- Javascript",
+        "5":"- CSS",
+        "6":"- HTML",
+        "7":"- C/C++",
+        "8":"- Python",
+        "9":"- PHP",
+        "10":"- kotlin",
+        "11":"- Docker",
+        "12":"- Forum By laravel framework",
+        "13":"- Application Menu Manager By Kotlin And Laravel",
+        "14":"- 2020 - Can Tho university (CTU)"
+    }
+}

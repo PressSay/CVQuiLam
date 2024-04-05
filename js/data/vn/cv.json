@@ -1,0 +1,29 @@
+{
+    "my-cv-title":{
+        "0":"LIÊN HỆ",
+        "1":"Họ Tên:",
+        "2":"Số Điện Thoại:",
+        "3":"Địa Chỉ:",
+        "4":"Thư Điện Tử (E-mail):" ,
+        "5":"KỸ NĂNG",
+        "6":"KINH NGHIỆM LÀM VIỆC",
+        "7":"TRƯỜNG TỪNG HỌC"
+    },
+    "my-cv-content": {
+        "0":"- Lâm Phú Quí",
+        "1":"- (+84)0343861387",
+        "2":"- Cần Thơ",
+        "3":"- viplanhts@gmail.com",
+        "4":"- Javascript",
+        "5":"- CSS",
+        "6":"- HTML",
+        "7":"- C/C++",
+        "8":"- Python",
+        "9":"- PHP",
+        "10":"- kotlin",
+        "11":"- Docker",
+        "12":"- Diễn Đàn Bằng laravel",
+        "13":"- Ứng Dụng Quản Lý Thực Đơn Bằng kotlin, laravel",
+        "14":"- 2020 - Đại Học Cần Thơ (CTU)"
+    }
+}
